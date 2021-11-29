@@ -1,0 +1,178 @@
+<html>
+<head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-sacle=1">
+<title>PC dev</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="bootstrap.min.css">
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+<script src="jquery-3.4.1.js"></script>
+<script src="bootstrap.min.js"></script>
+</head>
+<body>
+<section id="nav-bar">
+  
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <a class="navbar-brand" href="#"><img src="images/logo.png"></a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" arial-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarNav">
+	  <ul class="navbar-nav ml-auto">
+	    <li class="nav-item active" >
+		  <a class="nav-link" href="#">HOME</a> 
+		</li>
+		<li class="nav-item" >
+		  <a class="nav-link" href="#">SERVICES</a> 
+		</li>
+		<li class="nav-item" >
+		  <a class="nav-link" href="#">ABOUT US</a> 
+		</li>
+		<li class="nav-item" >
+		  <a class="nav-link" href="#" >TESTMONIALS</a> 
+		</li>
+		<li class="nav-item" >
+		  <a class="nav-link" href="#" >CONTACTS</a> 
+		</li>
+	  </ul>
+	</div>
+  </nav>
+  
+</section>
+
+<!------------------------banner section----------->
+<section id="banner">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<p class="promo-title">BEST WEB DESIGNERS & DEVELOPERS</p>
+<p>We are creative web developers</br>
+We design and develop the most beautiful websites on the internet</p>
+<!--<a href="#"> <img src="#" class="play-btn">Watch Tutorials</a>-->
+</div>
+
+<div class="col-md-6 text-center">
+<img src="images/webdeveloper.png" class="img-fluid">
+</div>
+
+</div>
+</div>
+</section>
+
+<!---------services section-------------->
+<section id="services">
+<div class="container text-center">
+<h1 class="title" >WHAT WE DO ? </h1>
+<div class="row text-center">
+
+<div class="col-md-4 services">
+<img src="images/e commerce.png" class="service-img  "> 
+<h4>E-commerce website development</h4>
+<p>Smart and strategically designed e-commerce wwebsites that are designed to convert clicks into sales</p>
+</div>
+
+<div class="col-md-4 services">
+<img src="images/support.png" class="service-img  "> 
+<h4>Website management and support</h4>
+<p>We keep your website running fast/ up to date and malware free with our award winning website management and support team</p>
+</div>
+
+<div class="col-md-4 services">
+<img src="images/fully custom.png" class="service-img  "> 
+<h4>Fully custom smart websites</h4>
+<p>Uniquely designed and engineered from the ground up our team will custom craft a website with our smart platform and custom features</p>
+</div>
+
+</div>
+<button type="button" class="btn btn-primary">All Services</button>
+</div>
+</section>
+
+<section id="about-us">
+<div class="container">
+<h1 class="title text-center">WHY CHOOSE US ?</h1>
+<div class="row">
+<div class="col-md-6 about-us">
+<p class="about-title" >Why we're different</p>
+  <ul>
+    <li>Believe in doing business with honesty</li>
+	<li>Believe in doing business with honesty</li>
+	<li>Believe in doing business with honesty</li>
+	<li>Believe in doing business with honesty</li> 
+	<li>Believe in doing business with honesty</li>
+	<li>Believe in doing business with honesty</li> 
+  </ul>
+</div> 
+
+<div class="col-md-6">
+<img src="images/img1.png" class="img-fluid"> 
+</div>
+</div>
+</div>
+</section>
+
+<!-------------------Testmoniala------------------->
+<!--<section id="testimonials">
+<div class="container">
+<h1 class="title text-center">WHAT CLIENTS SAY ?</h1>
+<div class="row offset-2  ">
+<div class="col-md-5 testimonials">
+ <p>Subscribe Easy tutorials Youtube Channel to watch more videos on website development, Digital Marketing, Wordpress and graphics Designing</p>
+ <img src="">
+  <p class="user-details"><b>AgeLina</b> Co-founder at xyz</p>
+</div>
+
+<div class="col-md-5 testimonials">
+ <p>Subscribe Easy tutorials Youtube Channel to watch more videos on website development, Digital Marketing, Wordpress and graphics Designing</p>
+ <img src="">
+  <p class="user-details"><b>AgeLina</b> Co-founder at xyz</p>
+</div>
+</div>
+</div>
+</section>-->
+
+<!-----------------------Social Media section---------------------->
+<section id="social-media">
+<div class="container text-center">
+<p>FIND US ON SOCIAL MEDIA</p>
+<div class="social-icons">
+<a href="#"><img src="icons/youtube.png"></a>
+<a href="#"><img src="icons/fb.png"></a>
+<a href="#"><img src="icons/ig.png"></a>
+<a href="#"><img src="icons/googleplus.png"></a>
+<a href="#"><img src="icons/whatsapp.png"></a>
+</div>
+</div>
+</section>
+
+<!------------------footer section--------------------->
+<section id="footer">
+<!--<img src="" class="footer-img"> -->   
+<div class="container">
+<div class="row">
+<div class="col-md-4  footer-box">
+<img src="images/webdesign.png">
+<p>Ready to take your business to the next level? Contact us and see what we can do.</p>
+</div>
+
+<div class="col-md-4  footer-box">
+<p><b>CONTACT US</b></p>
+<p><i class="fa fa-map-marker"></i> Nairobi Kenya</p>
+<p><i class="fa fa-phone"></i> +254798252207</p>
+<p><i class="fa fa-envelope-o"></i> info@pcdevelopers.com</p>
+</div>
+
+<div class="col-md-4  footer-box">
+<p><b>SUBSCRIBE NEWSLETTER</b></p>
+<input type="email" class="form-control" placeholder="Your Email">
+<button type="button" class="btn btn-primary">Subscribe</button>
+</div>
+</div>
+<hr>
+<p class="copyright">Website Crfted by PC developers</p>
+</div>
+</section>
+
+
+</body>
+</html> 
